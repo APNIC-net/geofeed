@@ -1,2 +1,3 @@
-# geofeed
-Geofeed data
+# Geofeed
+
+Geofeed data for APNIC.
